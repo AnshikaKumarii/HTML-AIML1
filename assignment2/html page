@@ -12,6 +12,14 @@
 <h2>two non semantic elemsents are</h2>
     <i>Hello world</i>
     <div>Hello world</div>
+</h3> hyperlinks tags</h3>
+    <img src="./gif.gif "alt="">
+<omg src="./img.jpeg"alt="">
+     <audio controls autoplay muted>  
+    <source src="HTML-AIML1/file_example_MP3_1MG.mp3" type="HTML-AIML1/file_example_MP3_1MG.mp3">
+</audio>
+ <video height="300px" widhth="300px" autoplay muted>
+    <source src="" type=""> 
   
 
 

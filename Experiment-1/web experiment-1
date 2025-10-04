@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Curriculum</title>
+</head>
+<body>
+    <h1>
+        <u> Introduction</u> 
+    </h1>
+<p>The Bachelor of Technology (B.Tech) course curriculum is a comprehensive, <b>four-year (eight-semester) undergraduate engineering program</b> designed to blend scientific theory with practical application to train students for professional careers in technology and engineering.
+
+It is structured <b>to provide a strong foundation in core sciences and mathematics (symbols used in mathematics are: &gt; , &lt; , &le; , &deg; , &#8377; , &ge; , &divide; , &sum; , &radic; , &infin;)</b> before transitioning to specialized engineering subjects, laboratory work, and professional development. </p>
+<h2> 
+    <u>Semester 1 Subjects</u>
+ </h2>
+<ol>
+    <li>Fundamentals of Linear Algebra and Statistics</li>
+    <li>Design Thinking</li>
+    <li>Basic of Mechanical & Automation Engg. </li>
+    <li>Soft Skills</li>
+    <li>Data Structure</li>
+    <li>Basic of Electronics engg.</li>
+</ol>
+<h2>
+     <u>Semester 1 Labs</u>
+</h2>
+<ul TYPE ="SQUARE">
+    <li>Data Structure Lab</li>
+    <li>Basic of Electronics Engg. Lab</li>
+    <li>Digital Manufacturing Lab</li>
+    <li>Professional Communication  Lab</li>  
+</ul>
+<h2> 
+    <u>Course Description</u>
+</h2>
+<dl>
+    <b>Fundamentals of Linear Algebra and Statistics:</b> 
+    <br>
+     This course introduces students to the fundamental concepts of linear algebra, including vectors, matrices, determinants, eigenvalues, and eigenvectors. It also covers basic statistical methods such as descriptive statistics, probability distributions, hypothesis testing, and regression analysis. The course aims to equip students with the mathematical tools necessary for engineering problem-solving and data analysis.
+</dl>
+<dl>
+    <b>Design Thinking:</b> 
+    <br>
+     This course focuses on the principles and processes of design thinking, a human-centered approach to innovation and problem-solving. Students will learn to empathize with users, define problems, ideate solutions, prototype designs, and test their ideas. The course encourages creativity, collaboration, and iterative development to create effective and user-friendly products or services.
+</dl>
+<dl>
+    <b>Basics of Mechanical & Automation Engineering:</b>
+     <br>
+     This course provides an introduction to the fundamental concepts of mechanical and automation engineering. Topics include mechanics, thermodynamics, fluid dynamics, material science, and basic principles of automation and control systems. The course aims to give students a foundational understanding of mechanical systems and their applications in various engineering fields.
+</dl>
+<dl>
+    <b>Soft Skills:</b> 
+    <br>
+     This course is designed to enhance students' interpersonal and communication skills, which are essential for professional success. Topics covered include effective communication, teamwork, leadership, time management, problem-solving, and emotional intelligence. The course aims to prepare students for the workplace by developing their ability to interact effectively with colleagues, clients, and stakeholders.</I>
+</dl>
+<h2> 
+    <u>Chapters </u>
+</h2>
+<ol>
+    <li> <b>Basics of Electronics Engineering </b></li>
+<ul type="circle">
+        <li>Diode and its Applications</li>
+        <li>Transistor and its Applications</li>
+        <li>Operational Amplifier and its Applications</li>
+        <li>Digital Electronics</li>
+        <li>Communication Technologies</li>
+</ul>
+    <li> <b>Basic of Mechanical & Automation </b></li>
+ <ul type="circle">
+        <li>Engineering Mechanics</li>
+        <li>Thermodynamics</li>
+        <li>Fluid Mechanics</li>
+        <li>Material Science</li>
+        <li>Basics of Automation and Control Systems</li>
+ </ul> 
+    <li> <b>Data Structure </b></li> 
+<ul type="circle">
+        <li>Introduction to Data Structures</li>
+        <li>Arrays and Linked Lists</li>
+        <li>Stacks and Queues</li>
+        <li>Trees and Graphs</li>
+        <li>Sorting and Searching Algorithms</li>
+</ul>
+    <li> <b>Fundamentals of Linear Algebra and Statistics </b></li>
+ <ul type="circle">
+        <li>Vectors and Matrices</li>
+        <li>Determinants and Eigenvalues</li>
+        <li>Descriptive Statistics</li>
+        <li>Probability Distributions</li>
+        <li>Hypothesis Testing and Regression Analysis</li>
+ </ul>
+</ol>
+ <h2><u>Project Work </u></h2>
+<ul>
+    <li><b>Web development</b></li>
+<ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>ReactJS</li>
+        <li>NodeJS</li>
+</ol>
+    <li><b>Database</b></li>
+<ol type="a">
+          <li>MySQL</li>
+          <li>MongoDB</li>
+ </ol>
+</ul>
+</body>
+</html>
